@@ -1,5 +1,6 @@
 # EDFScheduler
-FreeRTOS modified kernel to support EDF scheduler 
+FreeRTOS modified kernel to support EDF scheduler
+<br />
 Project runs on Keil simulator on LPC2129 mcu
 ________________________________________
 <br />
