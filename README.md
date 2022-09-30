@@ -9,5 +9,5 @@ Added Functions
 *xTaskPeriodicCreate() 
 <br />
 <br />
-usual as xTaskCreate but with additional perimeter to initialize the period of the 
+usual as xTaskCreate but with additional parameter to initialize the period of the 
 task being called.
